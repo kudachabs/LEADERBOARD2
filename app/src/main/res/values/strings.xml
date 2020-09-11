@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="bar_title">bar_title</string>
+    <string name="submit">Submit</string>
+
+</resources>
